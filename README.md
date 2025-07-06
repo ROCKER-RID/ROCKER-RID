@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/kDfQYYRql4LSGXEfis/giphy.gif" width="600" alt="Robotics and IoT Animation">
+  <img src="https://github.com/ROCKER-RID/ROCKER-RID/blob/main/profileele.gif?raw=true" width="600" alt="Robotics and IoT Animation">
 </p>
 
 <p align="center">
