@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoderl/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Java+and+C%2B%2B+Developer;IoT+%26+Robotics+Enthusiast;Building+the+bridge+between+hardware+and+software." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=1000&lines=Java+and+C%2B%2B+Developer;C+and+Javascript+Developer;IoT+%26+Robotics+Enthusiast;Building+the+bridge+between+hardware+and+software." alt="Typing SVG" />
   </a>
 </p>
 
